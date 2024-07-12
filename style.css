@@ -145,3 +145,27 @@ color: white;
     box-shadow: 0 0 10px #2ca4bf,0 0 20px #2ca4bf,0 0 30px #2ca4bf;;;
 }
 
+@media (max-width: 480px) {
+    .logo {
+        font-size: 1.2rem;
+        padding: 5px 10px;
+    }
+
+    .button1, .button2 {
+        font-size: 1rem;
+        padding: 5px 10px;
+    }
+
+    .social {
+        font-size: 20px;
+        margin-right: 10px;
+    }
+
+    .typer {
+        font-size: 2rem;
+    }
+
+    .text2 {
+        font-size: 1.2rem;
+    }
+}
